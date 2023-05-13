@@ -1,0 +1,36 @@
+body{
+    
+    background-color:#FFD5FF;
+    color:rgb(0, 0, 0);
+    font-family:'Libre Franklin', sans-serif;
+
+}
+head{
+    background-color: #B47EB3;
+
+}
+h1{
+    color: #fffcff;
+    background-color: #B47EB3;
+    font-size:  70px;
+    padding: 50px;
+    font-weight: bolder;
+}
+p{
+    color: #088d5e;
+    font-weight: bold;
+
+}
+h3{
+    font-size:  20px;
+    background-color: #ccabcb;
+    padding: 15px;
+}
+img{
+   /* width: 400px;*/
+    height: 400px;
+    border-style: dotted;
+    border-color: #92D1C3;
+    padding: 20px;
+    margin: 20px;
+}
